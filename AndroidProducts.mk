@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_davinci.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_davinci-user \
-    lmodroid_davinci-userdebug \
-    lmodroid_davinci-eng
